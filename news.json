@@ -266,7 +266,7 @@
   },
   {
     "text": "Factory Fire Disrupts Global Supply Chain",
-    "impact": -11,
+    "impact": -50,
     "positive": false
   },
   {
@@ -502,6 +502,31 @@
   {
     "text": "Warehouse Collapse Causes Distribution Chaos",
     "impact": -8,
+    "positive": false
+  }
+  {
+    "text": "Massive Fraud Scandal Exposed by Regulators",
+    "impact": -70,
+    "positive": false
+  },
+  {
+    "text": "CEO Arrested for Embezzling Billions",
+    "impact": -70,
+    "positive": false
+  },
+  {
+    "text": "Critical Patent Invalidated by Supreme Court",
+    "impact": -70,
+    "positive": false
+  },
+  {
+    "text": "All Manufacturing Plants Destroyed in Fire",
+    "impact": -70,
+    "positive": false
+  },
+  {
+    "text": "Government Bans Company Products Nationwide",
+    "impact": -70,
     "positive": false
   }
 ]
