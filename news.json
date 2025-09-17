@@ -528,5 +528,20 @@
     "text": "Government Bans Company Products Nationwide",
     "impact": -70,
     "positive": false
+  },
+  {
+    "text": "CEO assasinated in Las Vegas",
+    "impact": -100,
+    "positive": false
+  },
+  {
+    "text": "Company Unveils Unlimited Clean Energy Tech",
+    "impact": 100,
+    "positive": true
+  },
+  {
+    "text": "Company created first living artificial intelligence",
+    "impact": 100,
+    "positive": true
   }
 ]
